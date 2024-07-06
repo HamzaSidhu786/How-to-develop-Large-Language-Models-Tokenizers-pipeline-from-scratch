@@ -8,7 +8,7 @@ I recently embarked on this journey and discovered that the core component of th
 
 I've created a step-by-step guide with code to help you develop your own ChatGPT2, Bert, and XLNet tokenizer pipelines from scratch.
 
-Follow me on <a href="https://www.linkedin.com/in/your-linkedin-profile-name"> <b>LinkedIn</b></a> for more interesting posts
+Follow me on <a href="https://www.linkedin.com/in/muhammad-hamza-32622520b/"> <b>LinkedIn</b></a> for more interesting posts
 
 
 
