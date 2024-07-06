@@ -7,3 +7,8 @@ I recently embarked on this journey and discovered that the core component of th
 <b> Get Hands-on with My Jupyter Notebook! </b>
 
 I've created a step-by-step guide with code to help you develop your own ChatGPT2, Bert, and XLNet tokenizer pipelines from scratch.
+
+Follow me on <a href="https://www.linkedin.com/in/your-linkedin-profile-name"> <b>LinkedIn</b></a> for more interesting posts
+
+
+
